@@ -1,6 +1,4 @@
 
-It's great to see your enthusiasm for learning and sharing your knowledge! Here's a revised version of your message:
-
 React Quote Generator Project 🚀
 In the journey of mastering React, I created a captivating Random Quote Generator that delves into crucial aspects of React development. Here's a glimpse of what I learned:
 
